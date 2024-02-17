@@ -5,7 +5,7 @@ function appendToDisplay(input){
 }
 
 function viderDisplay(){
-    display.value = ".";
+    display.value = "";
 }
 
 function calculer(){

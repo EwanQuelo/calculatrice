@@ -67,3 +67,26 @@ h1 {
     border: none;
     color: white;
 }
+
+/* redirection boutton */
+.redirection img {
+    display: flex;
+    position: absolute;
+    top: 0;
+    left: 30px;
+    width: 60px;
+    height: 60px;
+}
+.redirection img:hover {
+    filter: brightness(0.5) ;
+}
+/* .redirection h2 {
+    font-family: Arial, sans-serif;
+    display: flex;
+    position: absolute;
+    top: 10px;
+    left: 95px;
+    font-size: 1rem;
+    color: white;
+    text-align: center;
+} */
